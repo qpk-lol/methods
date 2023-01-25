@@ -112,7 +112,7 @@
 		]
    },
 	{
-		"name":"OVH-BETA",
+		"name":"",
 		"time":250,
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
@@ -223,7 +223,7 @@
    },
 	{
 		"name":"OVH-BETA",
-		"time":250,
+		"time":120,
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
 		"api":[
@@ -232,7 +232,7 @@
 		]
    },
 	{
-		"name":"NFO-BETA",
+		"name":"NFO-KILL",
 		"time":250,
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
@@ -242,7 +242,7 @@
 		]
    },
 	{
-		"name":"120",
+		"name":"TCP",
 		"time":250,
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
@@ -252,8 +252,8 @@
 		]
    },
 	{
-		"name":"PURE-UDP",
-		"time":250,
+		"name":"UDP-RAW",
+		"time":120,
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
 		"api":[
